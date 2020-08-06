@@ -5,5 +5,5 @@ class Dog
     @new_dog = new_dog
     @@all << self
   end
-  
+
 end
